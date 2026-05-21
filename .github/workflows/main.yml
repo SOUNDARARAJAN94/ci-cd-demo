@@ -6,32 +6,10 @@ on:
       - main
 
 jobs:
-
-  deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - name: Checkout Source Code
-        uses: actions/checkout@v4
-
-      - name: Print Success Message
-        run: echo "GitHub Actions Working Successfully"
-
-name: CI/CD Pipeline
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-
   build-test-deploy:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout Source Code
         uses: actions/checkout@v4
 

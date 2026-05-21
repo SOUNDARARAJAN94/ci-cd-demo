@@ -1,1 +1,5 @@
-![CI/CD](https://github.com/YOUR_USERNAME/ci-cd-demo/actions/workflows/main.yml/badge.svg)# ci-cd-demo
+# CI/CD Demo Project
+
+![CI/CD](https://github.com/SOUNDARARAJAN94/ci-cd-demo/actions/workflows/main.yml/badge.svg)
+
+This project demonstrates GitHub Actions CI/CD pipeline.

@@ -1,4 +1,4 @@
-# CI/CD Demo Project
+# CI/CD Demo Projectt
 
 ![CI/CD](https://github.com/SOUNDARARAJAN94/ci-cd-demo/actions/workflows/main.yml/badge.svg)
 
